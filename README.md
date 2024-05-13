@@ -1,4 +1,4 @@
-Hotel Booking Analysis
+*Hotel Booking Analysis:*
 This project focuses on analyzing a dataset of hotel bookings to derive insights and make data-driven decisions. The dataset contains information about hotel bookings, including booking channels, cancellation rates, customer demographics, and more.
 
 Business Objective:
